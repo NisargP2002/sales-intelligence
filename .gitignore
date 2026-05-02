@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+mlruns/
+tableau/sales_data.csv
+tableau/forecast_data.csv
