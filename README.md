@@ -13,3 +13,4 @@ Tableau dashboard with a 90-day XGBoost revenue forecast.
 | Forecast R² | 0.78 |
 | Forecast MAE | ~$1,124/day |
 | 90-day forecast total | $244,468 |
+# sales-intelligence-dashboard
